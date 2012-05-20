@@ -1,0 +1,4 @@
+2012-05-20 23:35:24,812 [0x00000124] DEBUG MainWindow - MainWindow:
+2012-05-20 23:35:26,593 [0x00000124] DEBUG MainWindow - ~MainWindow:
+2012-05-20 23:35:26,593 [0x00000124] DEBUG MainWindow - DeleteRobotTurretThread:
+2012-05-20 23:35:26,593 [0x00000124] DEBUG MainWindow - ~MainWindow: Delete ui
